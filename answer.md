@@ -1,8 +1,8 @@
 # 第3次練習-練習-PC3
 >
->學號：1234567
+>學號：111111113
 ><br />
->姓名：王小明
+>姓名：張昕妤
 ><br />
 >作業撰寫時間：180 (mins，包含程式撰寫時間)
 ><br />
@@ -15,42 +15,18 @@
 
 ## 說明程式與內容
 
-開始寫說明，該說明需說明想法，
-並於之後再對上述想法的每一部分將程式進一步進行展現，
-若需引用程式區則使用下面方法，
-若為.cs檔內程式除了於敘述中需註明檔案名稱外，
-還需使用語法` ```語言種類 程式碼 ``` `，其中語言種類若是要用python則使用py，java則使用java，C/C++則使用cpp，
-下段程式碼為語言種類選擇csharp使用後結果：
+倉庫網址:https://github.com/YaXun1103/FinalPorject112-1<br>
+我的分支:https://github.com/YaXun1103/FinalPorject112-1/tree/xinyu<br>
 
-```csharp
-public void mt_getResult(){
-    ...
-}
-```
+1.先建立倉庫FinalPorject112-1並分享給組員<br>
+2.git clone git@github.com:YaXun1103/FinalPorject112-1.git<br>
+3.檢視 命令選擇區 git Graph:View Git Graph(git log)<br>
+4.git branch xinyu<br>
+5.git checkout xinyu<br>
+6.建立文字檔 打上文字<br>
+7.git commit<br>
+8.git push<br>
 
-若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
-下段程式碼則為使用後結果：
-
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
 
 ## 個人認為完成作業須具備觀念
-
-開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)
+具備如何在github建立倉庫，及如何多人一同開發，當中並要清楚顯示Git Graph 圖形界面，並且了解如何建立分支及切換分支的語法功能。
